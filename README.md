@@ -1,6 +1,6 @@
 # Advanced-Java-Mini-Project
 # Utility Bill Payments
-Html - Java Servlet - SQL Database - JavaScript - CSS
+HTML - Java Servlet - SQL Database - JavaScript - CSS
 
 (Done by Shree Harini )
 
